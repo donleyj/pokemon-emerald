@@ -1,0 +1,1 @@
+Repository to hold Pokémon Emerald save games for James and Sean.
